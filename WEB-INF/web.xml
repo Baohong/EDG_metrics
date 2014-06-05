@@ -18,7 +18,7 @@
     <context-param>
         <description>Password</description>
         <param-name>password</param-name>
-        <param-value>Innovate4fun!</param-value>
+        <param-value>EDGuser!</param-value>
     </context-param>
 
     <context-param>
